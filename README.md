@@ -50,7 +50,7 @@ button{
 <body>
 
 <div class="container">
-<h1>Você aceita sair comigo? ❤️</h1>
+<h1>Você aceita sair comigo? ❤️ (Não tem como não aceitar) </h1>
 
 <button id="sim" onclick="aceitou()">SIM</button>
 <button id="nao">NÃO</button>
